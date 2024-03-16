@@ -2,7 +2,7 @@ name: Node.js CI
 
 on:
   push:
-    branches: ["*", "examen-parcial-1"]
+    branches: ["examen-parcial-1"]
   pull_request:
     branches: ["master", "examen-parcial-1"]
 
